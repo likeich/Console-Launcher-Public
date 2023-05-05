@@ -16,7 +16,9 @@
 # TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 # SOFTWARE.
 
-import os, re, json
+import json
+import os
+import re
 
 indexFilename = "index.json"
 
@@ -26,7 +28,7 @@ platformIconsPacks = [f for f in os.listdir('.') if os.path.isdir(f)]
 platformIconsPacks = sorted(platformIconsPacks, key=str.casefold)
 
 index = {
-    "baseUri": "https://raw.githubusercontent.com/magneticchen/Daijishou/main/themes/platform_wallpapers_packs/",
+    "baseUri": "https://github.com/likeich/Console-Launcher-Public/tree/main/themes/platform_icons_packs",
     "platformIconsPackList": []
 }
 
@@ -57,10 +59,12 @@ for d in platformIconsPacks:
                         'previewThumbnailFilename']
                     platformIconsPackIsNSFW = platformIconsPackIndex[
                         'isNSFW'] if 'isNSFW' in platformIconsPackIndex.keys() else False
+
                     index['platformIconsPackList'].append({
                         "platformIconsPackRootPath": platformIconsPackDir,
                         # "platformWallpaperPackIndexPath": f,
-                        "platformIconsPackPreviewThumbnailPath": platformIconsPackDir + '/' + platformIconsPackPreviewThumbnailFilename,
+                        "platformIconsPackPreviewThumbnailPath": platformIconsPackDir + '/'
+                                                                 + platformIconsPackPreviewThumbnailFilename,
                         "platformIconsPackAuthors": platformIconsPackAuthors,
                         "platformIconsPackName": platformIconsPackName,
                         "platformIconsPackDescription": platformIconsPackDescription,
