@@ -1,0 +1,18 @@
+{
+  "name": "Minimal-CL",
+  "description": "The pack contains minimalistic icons with a white console logo on a gradient background.",
+  "authors": ["likeich"],
+  "sources": ["https://github.com/likeich/Console-Launcher-Public"],
+  "previewThumbnailFilename": "nds.svg",
+
+  "iconList": [
+    {
+      "matchPlatformShortname": "nds",
+      "filename": "nds.svg"
+    },
+    {
+      "matchPlatformShortname": "psp",
+      "filename": "psp.svg"
+    },
+  ]
+}
