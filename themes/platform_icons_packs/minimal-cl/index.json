@@ -3,16 +3,16 @@
   "description": "The pack contains minimalistic icons with a white console logo on a gradient background.",
   "authors": ["likeich"],
   "sources": ["https://github.com/likeich/Console-Launcher-Public"],
-  "previewThumbnailFilename": "nds.svg",
+  "previewThumbnailFilename": "nds.png",
 
   "iconList": [
     {
       "matchPlatformShortname": "nds",
-      "filename": "nds.svg"
+      "filename": "nds.png"
     },
     {
       "matchPlatformShortname": "psp",
-      "filename": "psp.svg"
+      "filename": "psp.png"
     }
   ]
 }
