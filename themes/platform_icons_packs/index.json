@@ -3,9 +3,10 @@
   "platformIconsPackList": [
     {
       "platformIconsPackAuthors": [
+        "arcreation",
         "likeich"
       ],
-      "platformIconsPackDescription": "The pack contains minimalistic icons with a white console logo on a gradient background.",
+      "platformIconsPackDescription": "This pack contains minimalistic icons with a white console logo on a gradient background.",
       "platformIconsPackIsNSFW": false,
       "platformIconsPackName": "Minimal-CL",
       "platformIconsPackPreviewThumbnailPath": "minimal-cl/nds.png",

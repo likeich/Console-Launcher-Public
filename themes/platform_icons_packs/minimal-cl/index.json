@@ -1,8 +1,8 @@
 {
   "name": "Minimal-CL",
-  "description": "The pack contains minimalistic icons with a white console logo on a gradient background.",
-  "authors": ["likeich"],
-  "sources": ["https://github.com/likeich/Console-Launcher-Public"],
+  "description": "This pack contains minimalistic icons with a white console logo on a gradient background.",
+  "authors": ["arcreation", "likeich"],
+  "sources": ["https://github.com/likeich/Console-Launcher-Public", "https://www.fiverr.com/arcreation"],
   "previewThumbnailFilename": "nds.png",
 
   "iconList": [
