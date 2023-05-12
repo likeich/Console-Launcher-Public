@@ -3,24 +3,24 @@
   "description": "This pack contains minimalistic icons with a white console logo on a gradient background.",
   "authors": ["arcreation", "likeich"],
   "sources": ["https://github.com/likeich/Console-Launcher-Public", "https://www.fiverr.com/arcreation"],
-  "previewThumbnailFilename": "minimal-cl.svg",
+  "previewThumbnailFilename": "minimal-cl.png",
 
   "iconList": [
     {
       "matchPlatformShortname": "3ds",
-      "filename": "3ds.svg"
+      "filename": "3ds.png"
     },
     {
       "matchPlatformShortname": "dreamcast",
-      "filename": "dreamcast.svg"
+      "filename": "dreamcast.png"
     },
     {
       "matchPlatformShortname": "gb",
-      "filename": "gb.svg"
+      "filename": "gb.png"
     },
     {
       "matchPlatformShortname": "gba",
-      "filename": "gba.svg"
+      "filename": "gba.png"
     },
     {
       "matchPlatformShortname": "gbc",
@@ -28,11 +28,11 @@
     },
     {
       "matchPlatformShortname": "gc",
-      "filename": "gc.svg"
+      "filename": "gc.png"
     },
     {
       "matchPlatformShortname": "genesis",
-      "filename": "genesis.svg"
+      "filename": "genesis.png"
     },
     {
       "matchPlatformShortname": "n64",
@@ -44,7 +44,7 @@
     },
     {
       "matchPlatformShortname": "nes",
-      "filename": "nes.svg"
+      "filename": "nes.png"
     },
     {
       "matchPlatformShortname": "ps2",
