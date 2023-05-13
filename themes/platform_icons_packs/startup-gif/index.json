@@ -1,0 +1,30 @@
+{
+  "name": "Startup-GIF",
+  "description": "This pack contains console startup animations in a GIF format.",
+  "authors": ["likeich"],
+  "sources": ["https://github.com/likeich/Console-Launcher-Public"],
+  "previewThumbnailFilename": "gc.gif",
+
+  "iconList": [
+    {
+      "matchPlatformShortname": "gb",
+      "filename": "gb.gif"
+    },
+    {
+      "matchPlatformShortname": "gba",
+      "filename": "gba.gif"
+    },
+    {
+      "matchPlatformShortname": "gbc",
+      "filename": "gbc.gif"
+    },
+    {
+      "matchPlatformShortname": "gc",
+      "filename": "gc.gif"
+    },
+    {
+      "matchPlatformShortname": "switch",
+      "filename": "switch.gif"
+    }
+  ]
+}

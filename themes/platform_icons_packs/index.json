@@ -11,6 +11,16 @@
       "platformIconsPackName": "Minimal-CL",
       "platformIconsPackPreviewThumbnailPath": "minimal-cl/minimal-cl.png",
       "platformIconsPackRootPath": "minimal-cl"
+    },
+    {
+      "platformIconsPackAuthors": [
+        "likeich"
+      ],
+      "platformIconsPackDescription": "This pack contains console startup animations in a GIF format.",
+      "platformIconsPackIsNSFW": false,
+      "platformIconsPackName": "Startup-GIF",
+      "platformIconsPackPreviewThumbnailPath": "startup-gif/gc.gif",
+      "platformIconsPackRootPath": "startup-gif"
     }
   ]
 }
