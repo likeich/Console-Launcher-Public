@@ -14,6 +14,17 @@
     },
     {
       "platformIconsPackAuthors": [
+        "gianfrancodepa",
+        "likeich"
+      ],
+      "platformIconsPackDescription": "This pack contains 64x64 pixel art icons that include the game console and logo.",
+      "platformIconsPackIsNSFW": false,
+      "platformIconsPackName": "Pix-CL",
+      "platformIconsPackPreviewThumbnailPath": "pix-cl/psp.png",
+      "platformIconsPackRootPath": "pix-cl"
+    },
+    {
+      "platformIconsPackAuthors": [
         "likeich"
       ],
       "platformIconsPackDescription": "This pack contains console startup animations in a GIF format.",

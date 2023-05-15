@@ -1,0 +1,18 @@
+{
+  "name": "Pix-CL",
+  "description": "This pack contains 64x64 pixel art icons that include the game console and logo.",
+  "authors": ["gianfrancodepa", "likeich"],
+  "sources": ["https://github.com/likeich/Console-Launcher-Public", "https://www.fiverr.com/gianfrancodepa"],
+  "previewThumbnailFilename": "psp.png",
+
+  "iconList": [
+    {
+      "matchPlatformShortname": "nds",
+      "filename": "nds.png"
+    },
+    {
+      "matchPlatformShortname": "psp",
+      "filename": "psp.png"
+    }
+  ]
+}
